@@ -3,48 +3,44 @@
     box-sizing: border-box;
     display: inline-block;
 }
-.tabs {
+.btn-group {
+    background-color: #E5E5E5;
+    color: black;
     display: inline-block;
     text-align: center;
+    font-family: Open Sans;
+    font-style: Regular;
+    font-size: 14px;
+    font-weight: 400px; 
+    
 }
 .tablinks1 {
-    font-family: Open Sans;
-    font-style: Regular;
-    font-size: 14px;
-    font-weight: 400px; 
     margin: 0px 154.5px 10px 0px;  
+    color: black;
+    border: none;
+    background-color: #E5E5E5;
     width: 70px;
     height: 39px;
-    border: none;
-    color: black;
-    background-color: #E5E5E5;
 }
 .tablinks2 {
-    font-family: Open Sans;
-    font-style: Regular;
-    font-size: 14px;
-    font-weight: 400px; 
     margin: 0px 146px 10px 0px;  
-    width: 70px;
-    height: 39px;
     border: none;
     color: black;
     background-color: #E5E5E5;
+    width: 70px;
+    height: 39px;
+   
 }
 .tablinks3 {
-    font-family: Open Sans;
-    font-style: Regular;
-    font-size: 14px;
-    font-weight: 400px; 
     margin: 0px 170px 10px 0px;  
-    width: 70px;
-    height: 39px;
     border: none;
     color: black;
     background-color: #E5E5E5;
+    width: 70px;
+    height: 39px;
 }
 .title {
-margin: 10px 500px 15px 100px;
+ margin: 10px 500px 15px 100px;
  font-family: Open Sans;
  font-style: Bold;
  font-size: 30px;
@@ -75,6 +71,6 @@ margin: 10px 500px 15px 100px;
  height: 58px;
 }
 .freedom {
- margin: 0px 0px 0px 30px;
+ 
  display: inline-block;
 }
